@@ -1,2 +1,4 @@
-# retail-pricing-analysis
-Performed end‑to‑end retail pricing analytics using Python and Power BI: cleaned 5,000‑row dataset, handled missing values, standardized categories, engineered pricing metrics (Final Price, Margin, Forecast Accuracy), and built dynamic dashboards for revenue and discount impact analysis.
+Retail Pricing & Profitability Analytics Project
+Tools Used: Python (Pandas, NumPy, Scikit‑Learn), Jupyter Notebook, Power BI
+Dataset Size: 5,000 records
+Domain: Retail Pricing, Discounts, Revenue, Profitability, Sales Analytics
